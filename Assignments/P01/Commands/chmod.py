@@ -5,7 +5,7 @@ def chmod(file, mode):
     Command: chmod xxx file
     """
     try:
-        os.chmod(file, mode)
+        os.chmod(file, int(str(mode),8))
         return f"Changed permissions of {file} to {mode}"
     except FileNotFoundError:
         return f"File not found: {file}"
