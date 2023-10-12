@@ -51,3 +51,4 @@ This is a project written in python that implements a basic shell ......
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
 |    01  |  [shell.py](https://github.com/ATHUL107/5143-Opsys-102/blob/main/Assignments/P01/shell.py)|Shell code
+|  02   |[commands](https://github.com/ATHUL107/5143-Opsys-102/tree/main/Assignments/P01/commands)|folder containing all the commands
