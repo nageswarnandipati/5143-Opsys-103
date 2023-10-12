@@ -41,7 +41,7 @@ This is a project written in python that implements a basic shell ......
 | `command < file`|           redirect standard input from a file|nageshwar                  |
 | `command1`|                 `command2`              | kaushik                             |
 | `command1 \| command2`|     pipe the output of command1 to the input of command2 |nageshwar|
-| `cat file1 file2 > file0|`  concatenate file1 and file2 to file0                 |nageshwar|
+| `cat file1 file2 > file0|`  concatenate file1 and file2 to file0                 |Athul|
 | `sort`|                     sort data                                            |kaushik|
 |`history` |   show a history of all your commands                              |Athul|
 | `!x`      |   this loads command `x` from your history so you can run it again |Athul|
