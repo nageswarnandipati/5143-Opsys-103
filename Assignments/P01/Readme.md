@@ -47,3 +47,7 @@ This is a project written in python that implements a basic shell ......
 |`history` |   show a history of all your commands                              |Athul|
 | `!x`      |   this loads command `x` from your history so you can run it again |nageshwar|
 
+
+|   #   | Folder Link | Assignment Description |
+| :---: | ----------- | ---------------------- |
+|    01  |  [shell.py](https://github.com/ATHUL107/5143-Opsys-102/tree/main/Assignments/P01)|Shell project
