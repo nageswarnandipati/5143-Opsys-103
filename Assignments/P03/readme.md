@@ -2,6 +2,11 @@
 
 ## These are the results of some testings that we did:
 
+### Teammates:
+Athul sajikumar
+nageshwar nandipatti
+sai koushik patibanda
+
 python3 sim.py sched=FCFS cpus=10 ios=5 input=small_cpu.dat
 CPU Utilization: 83.7620578778135                                                                                                                                                    │
 IO Utilization: 13.954983922829582                                                                                                                                                   │
