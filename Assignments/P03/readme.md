@@ -75,4 +75,9 @@ Average Turnaround Time: 78.8                                  
 Average Wait Time: 51.9                                                                                                                                
 
 Average I/O Wait Time: 11.9 
-
+## Observations:
+### when i ran the small cpu heavy file cpu utilization is more
+### Then for the small io heavy file the io utilization is more
+### Then i reduced the number of io's to half then the io wait time increased
+### Then i reduced to the number of cpu's to half for the same file cpu wait time increased
+### Atlast i tried to compare a first come first serve algorithm with round robin by using the same file and same number of cpu's and io's amd i noticed that the average turn around time is more for round robin becasue we are giving a timeslice
