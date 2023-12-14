@@ -2,8 +2,8 @@
 
 ## Teammates:
 ### Athul sajikumar
-### nageshwar nandipatti
-### sai koushik patibanda
+### Venkata Nageswar Reddy Nandipati
+### Sai Koushik Patibanda
 
 ## overview: 
 The CPU scheduling project aims to enhance the efficiency and performance of a computer system by implementing advanced CPU scheduling algorithms. CPU scheduling is a crucial aspect of operating systems, responsible for determining the order in which processes are executed on the central processing unit (CPU). This project addresses the challenges associated with managing and optimizing the allocation of CPU resources, ensuring fair and efficient execution of processes.
