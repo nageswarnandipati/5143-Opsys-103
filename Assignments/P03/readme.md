@@ -8,7 +8,16 @@
 ## overview: 
 The CPU scheduling project aims to enhance the efficiency and performance of a computer system by implementing advanced CPU scheduling algorithms. CPU scheduling is a crucial aspect of operating systems, responsible for determining the order in which processes are executed on the central processing unit (CPU). This project addresses the challenges associated with managing and optimizing the allocation of CPU resources, ensuring fair and efficient execution of processes.
 
-How to run the code
+## How to Run the program:
+
+python3 sim.py sched=RR timeslice=3 cpus=4 ios=6 input=filename.dat
+or
+python3 sim.py sched=FCFS cpus=2 ios=2 input=otherfile.dat
+
+### Algorithms:
+FCFS: First Come First Serve
+RR: Round Robin
+PB: Priority Based
 
 
 
