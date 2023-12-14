@@ -4,6 +4,17 @@
 ### Athul sajikumar
 ### nageshwar nandipatti
 ### sai koushik patibanda
+
+## overview: 
+The CPU scheduling project aims to enhance the efficiency and performance of a computer system by implementing advanced CPU scheduling algorithms. CPU scheduling is a crucial aspect of operating systems, responsible for determining the order in which processes are executed on the central processing unit (CPU). This project addresses the challenges associated with managing and optimizing the allocation of CPU resources, ensuring fair and efficient execution of processes.
+
+How to run the code
+
+
+
+
+
+
 ## These are the results of some testings that we did on different algorithms and there comparisons and observations:
 
 ## python3 sim.py sched=FCFS cpus=10 ios=5 input=small_cpu.dat
