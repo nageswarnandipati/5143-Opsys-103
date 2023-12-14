@@ -2,7 +2,7 @@
 
 ## Teammates:
 ### Athul sajikumar
-### nageshwar nandipatti
+### Venkata Nageswar Reddy Nandipati
 ### sai koushik patibanda
 
 ## overview: 
